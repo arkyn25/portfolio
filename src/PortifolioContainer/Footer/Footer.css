@@ -1,0 +1,19 @@
+.footer-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 0px;
+}
+
+.footer-main-parent {
+  justify-content: center;
+  text-align: center;
+  background-color: #1f2235;
+}
+
+.footer-main-parent span {
+  font-family: "Poppins Bold";
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: white;
+}
